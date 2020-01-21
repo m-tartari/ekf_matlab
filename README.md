@@ -2,3 +2,5 @@ For this project we worked with the data retrieved from a differential drive rob
 
 - **Part 1:** Development of a Kalman Filter for the self-localization.
 - **Part 2:** Development of an Extended Kalman Filter for the self-localization.
+
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged.
